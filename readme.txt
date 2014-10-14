@@ -23,6 +23,7 @@ Note: As of 1.0, this plugin requires the [Marketers Delight](http://kolakube.co
 1. Upload `kolakube-main-menu` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to Appearance > Customize to add menu items
+4. [For articles and video guides, check out documentation](http://kolakube.com/main-menu/build/setup/)
 
 == Frequently Asked Questions ==
 
