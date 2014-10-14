@@ -16,7 +16,7 @@ Display a beautiful responsive menu with dropdown navigation, social media icons
 
 This menu looks and functions perfectly on all devices. On larger screens, you'll see a lightweight menu. When you view it on a phone, the menu turns into an easy-to-tap content switcher.
 
-Note: As of 1.0, this plugin requires the [Marketers Delight](http://kolakube.com/md/) theme by Kolakube to show properly. Instructions on how to integrate with other themes coming soon.
+Note: As of 1.0, this plugin requires the [Marketers Delight](http://kolakube.com/marketers-delight/) theme by Kolakube to show properly. Instructions on how to integrate with other themes coming soon.
 
 == Installation ==
 
@@ -28,7 +28,7 @@ Note: As of 1.0, this plugin requires the [Marketers Delight](http://kolakube.co
 
 = Does this menu work with my theme? =
 
-As of version 1.0, this menu plugin was built specifically for the [Marketers Delight](http://kolakube.com/md/) theme from Kolakube. However, there will be a detailed guide on how to use this in other theme's soon.
+As of version 1.0, this menu plugin was built specifically for the [Marketers Delight](http://kolakube.com/marketers-delight/) theme from Kolakube. However, there will be a detailed guide on how to use this in other theme's soon.
 
 = How many dropdown menus can I have? =
 
