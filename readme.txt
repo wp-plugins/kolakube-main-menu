@@ -45,7 +45,9 @@ This menu only supports ONE level of dropdown items.
 
 4. On tablets, the menu collapses into a content switcher. Tap an item to open the panel.
 
-5. Here's the menu on a phone with the Search tab active. Tap any other icon to switch panels.
+5. This men also supports adding a 2-step, fully responsive email signup form to your menu bar with the Email Page Lead, part of the Page Leads suite from Kolakube
+
+6. Here's the menu on a phone with the Search tab active. Tap any other icon to switch panels.
 
 == Changelog ==
 
